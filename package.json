@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp_day3_stringsplosion",
+  "version": "1.0.0",
+  "description": "a program to return the sploded version of a string",
+  "main": "stringSplosion.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
